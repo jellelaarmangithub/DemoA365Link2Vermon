@@ -32,7 +32,10 @@ FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
 OutputPath=Unit Output files
 LogFolderPath=
-ManagedProjectGUID=
+ManagedProjectGUID=24C9F837-5AD0-4DD3-AFAE-AA9ACC9C821A
+VaultGUID=84bddb05-d39a-4a3d-99cc-21c3787e2c9d
+ReleaseVaultName=Vermon_GitHubDemo
+ItemGUID=24C9F837-5AD0-4DD3-AFAE-AA9ACC9C821A
 IncludeDesignInRelease=0
 
 [Preferences]
@@ -105,7 +108,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DBMLVOCU
 
 [Document5]
 DocumentPath=SL1 Xilinx Spartan-IIE PQ208 Rev1.01.SchDoc
